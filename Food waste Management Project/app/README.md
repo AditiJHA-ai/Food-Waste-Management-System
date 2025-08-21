@@ -24,32 +24,6 @@ Food-Waste-Management/
 
 ---
 
-## 🛠️ Installation & Setup (Local)
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/food-waste-management.git
-   cd food-waste-management
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Streamlit app:
-   ```bash
-   streamlit run app.py
-   ```
-4. Open browser → `http://localhost:8501`
-
----
-
-## 🌍 Deployment
-This app can be deployed for free using **[Streamlit Community Cloud](https://share.streamlit.io/)**:
-1. Upload this repo (`app.py`, `food_wastage.db`, `requirements.txt`, `README.md`) to GitHub.  
-2. Go to Streamlit Cloud → New App → Connect GitHub repo → Deploy.  
-3. Share your app link 🎉  
-
----
-
 ## 📊 Analytics Queries (13 Key Questions)
 1. How many food providers and receivers are there in each city?  
 2. Which type of food provider contributes the most food?  
@@ -80,4 +54,4 @@ This app can be deployed for free using **[Streamlit Community Cloud](https://sh
 ---
 
 ## 🙌 Acknowledgements
-This project was created as part of an academic assignment on **Database Management & Analytics**.
+This project was created as part of an internship assignment on **Database Management & Analytics**.
